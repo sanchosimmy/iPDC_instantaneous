@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=PMU Simulator
+Comment=Phasor Measurement Unit Simulator
+Exec=sh -c '$HOME/iPDC/bin/runPMU'
+Icon=logo.png
+Terminal=false
+Categories=Education

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=iPDC
+Comment=A Phasor Data Concentrator
+Exec=sh -c '$HOME/iPDC/bin/runiPDC'
+Icon=ipdcLogo.png
+Terminal=false
+Categories=Education
